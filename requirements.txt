@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.26.0
+python-dotenv==1.1.0
+loader~=2017.9.11
+peewee~=3.18.2
